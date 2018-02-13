@@ -1,0 +1,10 @@
+<root>
+  <area xmax="225.0" xmin="-225.0" ymax="225.0" ymin="-225.0" />
+  <slider value="45.9" /><color value="#FF0000" />
+  <items>
+    <item color="#000000" size="250.0" x="150.0" y="0.0" />
+    <item color="#660000" size="1.0" x="-200.0" y="0.0" />
+    <item color="#770000" size="1.0" x="-310.0" y="0.0" />
+    <item color="#550000" size="0.5" x="-540.0" y="0.0" />
+  </items>
+</root>
